@@ -1,3 +1,7 @@
+### This repos has lots of topics wise projects in python 
+
+https://github.com/TheAlgorithms/Python/tree/master
+
 #### Object Oriented Titanic Project 
 
 https://www.kaggle.com/code/serkanpeldek/object-oriented-titanics
@@ -6,7 +10,7 @@ https://www.kaggle.com/code/serkanpeldek/object-oriented-titanics
 
 https://github.com/TheAlgorithms/Python/tree/master/machine_learning
 
-##### Machine Learning in Action 
+#### Machine Learning in Action 
 
 https://github.com/guipsamora/machinelearninginaction/tree/master
 
@@ -91,4 +95,22 @@ https://github.com/fatemehnadir/Data-Analytics/tree/main
 
 https://github.com/ZahraDehghani99/Natural-Language-Processing/tree/main
 
-### 
+### Applied Machine Learning Homework 
+
+https://github.com/pooriaazizi-ce/AML-HomeWorks/tree/master?tab=readme-ov-file#applied-machine-learning-homework-commits
+
+### Machine learning Tehran University 
+
+https://github.com/fardinabbasi/Machine_Learning
+
+### Machine learning Tehran University 
+
+https://github.com/fardinabbasi/Machine_Learning
+
+### Ml bookscamps code 
+
+https://github.com/DataTalksClub/mlops-zoomcamp/tree/main
+
+https://github.com/alexeygrigorev/mlbookcamp-code/tree/master?tab=readme-ov-file
+
+
