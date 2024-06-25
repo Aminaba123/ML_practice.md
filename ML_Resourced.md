@@ -49,3 +49,11 @@ https://github.com/microsoft/MLCVQA/tree/main
 ### Very cool reserach projects for machine learning 
 
 https://github.com/microsoft/robustlearn/tree/main
+
+### Amazon examples 
+
+https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_applying_machine_learning
+
+
+
+
