@@ -16,6 +16,14 @@ https://github.com/guipsamora/machinelearninginaction/tree/master
 
 https://github.com/justmarkham/scikit-learn-videos/tree/master
 
+### Data Scince forom scratch 
+
+https://github.com/joelgrus/data-science-from-scratch/tree/master
+
+### Machine Learning and Deep learning from scratch 
+
+https://github.com/eriklindernoren/ML-From-Scratch/tree/master
+
 ### Microsof ML for biginners 
 
 https://github.com/microsoft/ML-For-Beginners/tree/main
@@ -117,4 +125,3 @@ https://github.com/alexeygrigorev/mlbookcamp-code/tree/master?tab=readme-ov-file
 
 https://www.youtube.com/watch?v=2jM7t-NTZxs
 
-### 
