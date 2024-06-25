@@ -50,6 +50,8 @@ https://github.com/microsoft/MLCVQA/tree/main
 
 https://github.com/microsoft/robustlearn/tree/main
 
+https://github.com/fardinabbasi/ML_Fake_Image_Detection/tree/main
+
 ### Amazon examples 
 
 https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_applying_machine_learning
@@ -73,8 +75,20 @@ https://github.com/Alireza-Akhavan/class.vision
 
 https://github.com/pourmand1376/DL-Homeworks/tree/master
 
+### Natural-Language-Processing Sharif
 
+https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
 
+### Machine Learning Sharif
 
+https://github.com/fatemehnadir/Machine-Learning/tree/main
 
+### Data Analytics
 
+https://github.com/fatemehnadir/Data-Analytics/tree/main
+
+### Natural-Language-Processing Sharif
+
+https://github.com/ZahraDehghani99/Natural-Language-Processing/tree/main
+
+### 
