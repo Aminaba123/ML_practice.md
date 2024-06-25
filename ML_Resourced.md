@@ -113,4 +113,8 @@ https://github.com/DataTalksClub/mlops-zoomcamp/tree/main
 
 https://github.com/alexeygrigorev/mlbookcamp-code/tree/master?tab=readme-ov-file
 
+#### MLOPS vide series
 
+https://www.youtube.com/watch?v=2jM7t-NTZxs
+
+### 
