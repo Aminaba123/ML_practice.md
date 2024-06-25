@@ -54,6 +54,27 @@ https://github.com/microsoft/robustlearn/tree/main
 
 https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_applying_machine_learning
 
+### deeplearning-tensorflow2-notebooks Sharif
+
+https://github.com/Alireza-Akhavan/deeplearning-tensorflow2-notebooks/tree/master
+
+### ML-notebooks sharif 
+
+https://github.com/Alireza-Akhavan/ML-notebooks
+
+### Compueter Vsion Sharif 
+
+https://github.com/Alireza-Akhavan/class.vision
+
+### object-detection-notebooks
+
+
+### Deep Learning Assignemnt Sharif 
+
+https://github.com/pourmand1376/DL-Homeworks/tree/master
+
+
+
 
 
 
