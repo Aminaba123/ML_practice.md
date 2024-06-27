@@ -46,7 +46,6 @@ formerly MLCopilot) is an interactive coding assistant
 
 https://github.com/microsoft/CoML/tree/main
 
-#
 #### Cool ML projects
 
 The News Threads pipeline processes large volumes of document content, using machine learning to find derived text fragments and trace them to their original sources.
