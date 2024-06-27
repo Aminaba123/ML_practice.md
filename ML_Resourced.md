@@ -53,6 +53,11 @@ The News Threads pipeline processes large volumes of document content, using mac
 
 https://github.com/microsoft/News-Threads/tree/master
 
+
+##### WeirdMuseum (Video App)
+
+https://github.com/Dayflt/WeirdMuseum/tree/main
+
 #### MLCVQA
 
 Machine Learning Codec Video Quality Assessment
