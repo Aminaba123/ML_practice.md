@@ -40,13 +40,13 @@ Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-F
 
 https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor/tree/main
 
+#
 ### Cool ML projects
 
 formerly MLCopilot) is an interactive coding assistant
 
 https://github.com/microsoft/CoML/tree/main
 
-#
 #### Cool ML projects
 
 The News Threads pipeline processes large volumes of document content, using machine learning to find derived text fragments and trace them to their original sources.
