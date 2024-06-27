@@ -46,24 +46,43 @@ formerly MLCopilot) is an interactive coding assistant
 
 https://github.com/microsoft/CoML/tree/main
 
-### Cool ML projects
+#
+#### Cool ML projects
 
 The News Threads pipeline processes large volumes of document content, using machine learning to find derived text fragments and trace them to their original sources.
 
 https://github.com/microsoft/News-Threads/tree/master
 
-### MLCVQA
+#### MLCVQA
 
 Machine Learning Codec Video Quality Assessment
 
 https://github.com/microsoft/MLCVQA/tree/main
 
-### Very cool reserach projects for machine learning 
+#### Very cool reserach projects for machine learning 
 
 https://github.com/microsoft/robustlearn/tree/main
 
 https://github.com/fardinabbasi/ML_Fake_Image_Detection/tree/main
 
+#### MindTech: LLM x Mental Health Solution
+
+https://github.com/catherineruoxiwu/MindTech/tree/master
+
+#### Programmarly
+
+https://github.com/Olivia-Chen-Xu/Programmarly/tree/main
+
+#### RadioCareBorealisAI
+
+https://github.com/Adibvafa/RadioCareBorealisAI/tree/main
+
+#### water-conservation-prediction
+
+https://github.com/Alex0Blackwell/water-conservation-prediction/tree/main
+
+
+# 
 ### Amazon examples 
 
 https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_applying_machine_learning
