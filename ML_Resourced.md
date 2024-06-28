@@ -149,3 +149,27 @@ https://github.com/alexeygrigorev/mlbookcamp-code/tree/master?tab=readme-ov-file
 
 https://www.youtube.com/watch?v=2jM7t-NTZxs
 
+#### Quera-Football
+
+https://github.com/FarzanehSoltanzadeh/Quera-Football/tree/main
+
+https://github.com/FarzanehSoltanzadeh/Quera-Superstore/tree/main
+
+https://github.com/FarzanehSoltanzadeh/Quera-imdb250top/tree/main
+
+https://github.com/QueraTeam/dataanalysis_bootcamp_crawler
+
+https://github.com/mr-robot77/Quera_G11-Project3/tree/main
+
+https://github.com/mr-robot77/Quera_G11-Project2
+
+#### Porjects Borealis AI
+
+https://github.com/Luwei-Lin/Manitoba_wildfire_project/tree/main
+
+https://github.com/medAli-ai/Beijing-air-quality-prediction-internship/tree/main
+
+### Interview preperation 
+
+https://github.com/shafaypro/CrackingMachineLearningInterview/tree/master?tab=readme-ov-file
+
