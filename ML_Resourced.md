@@ -182,16 +182,26 @@ https://github.com/mobiiin/statistical-learning/tree/master
 
 https://github.com/pourmand1376/SML-projects/tree/main
 
-### deeplearning-tensorflow2-notebooks Sharif
+#### deeplearning-tensorflow2-notebooks Sharif
 
 https://github.com/Alireza-Akhavan/deeplearning-tensorflow2-notebooks/tree/master
 
-### ML-notebooks sharif 
+#### ML-notebooks sharif 
 
 https://github.com/Alireza-Akhavan/ML-notebooks
 
-### Natural-Language-Processing Sharif
+#### Natural-Language-Processing Sharif
 
 https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
+
+#### Computer Vision sharif 
+
+https://github.com/sahelyiyi/ComputerVisionCourse/tree/master
+
+https://github.com/mobiiin/Computer-Vision/tree/master
+
+#### Comoiter vision CMU 
+
+https://github.com/Mzunoven/ComputerVision/tree/master
 
 
