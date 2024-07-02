@@ -1,3 +1,7 @@
+### Good reposittory for ml resources
+
+https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
+
 ### This repos has lots of topics wise projects in python and Machine Learning
 
 https://github.com/TheAlgorithms/Python/tree/master
