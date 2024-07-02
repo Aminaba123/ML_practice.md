@@ -92,18 +92,6 @@ https://github.com/Alex0Blackwell/water-conservation-prediction/tree/main
 
 https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_applying_machine_learning
 
-### deeplearning-tensorflow2-notebooks Sharif
-
-https://github.com/Alireza-Akhavan/deeplearning-tensorflow2-notebooks/tree/master
-
-### ML-notebooks sharif 
-
-https://github.com/Alireza-Akhavan/ML-notebooks
-
-### Natural-Language-Processing Sharif
-
-https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
-
 ### Data Analytics
 
 https://github.com/fatemehnadir/Data-Analytics/tree/main
@@ -193,4 +181,17 @@ https://github.com/mobiiin/statistical-learning/tree/master
 #### Statistical Machine learning 
 
 https://github.com/pourmand1376/SML-projects/tree/main
+
+### deeplearning-tensorflow2-notebooks Sharif
+
+https://github.com/Alireza-Akhavan/deeplearning-tensorflow2-notebooks/tree/master
+
+### ML-notebooks sharif 
+
+https://github.com/Alireza-Akhavan/ML-notebooks
+
+### Natural-Language-Processing Sharif
+
+https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
+
 
