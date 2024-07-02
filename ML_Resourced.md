@@ -204,4 +204,222 @@ https://github.com/mobiiin/Computer-Vision/tree/master
 
 https://github.com/Mzunoven/ComputerVision/tree/master
 
+#
+### Interview questions
+
+50 Essential Anomaly Detection Interview Questions
+
+https://github.com/Devinterview-io/anomaly-detection-interview-questions
+
+55 Common Apache Spark Interview Questions
+
+https://github.com/Devinterview-io/apache-spark-interview-questions
+
+50 Essential Autoencoders Interview Questions
+
+https://github.com/Devinterview-io/autoencoders-interview-questions
+
+45 Core Bias And Variance Interview Questions
+
+https://github.com/Devinterview-io/bias-and-variance-interview-questions
+
+53 Must-Know ChatGPT Interview Questions
+
+https://github.com/Devinterview-io/chatgpt-interview-questions
+
+52 Fundamental Classification Algorithms Interview Questions
+
+https://github.com/Devinterview-io/classification-algorithms-interview-questions
+
+50 Must-Know Cluster Analysis Interview Questions
+
+https://github.com/Devinterview-io/cluster-analysis-interview-questions
+
+50 Important CNN Interview Questions
+
+https://github.com/Devinterview-io/cnn-interview-questions
+
+54 Fundamental Computer Vision Interview Questions
+
+https://github.com/Devinterview-io/computer-vision-interview-questions
+
+43 Essential Cost Function Interview Questions
+
+https://github.com/Devinterview-io/cost-function-interview-questions
+
+Top 40 Curse of Dimensionality Interview Questions
+
+https://github.com/Devinterview-io/curse-of-dimensionality-interview-questions
+
+60 Common Data Mining Interview Questions
+
+https://github.com/Devinterview-io/data-mining-interview-questions
+
+100 Important Data Processing Interview Questions
+
+https://github.com/Devinterview-io/data-processing-interview-questions
+
+60 Must-Know Decision Tree Interview Questions
+
+https://github.com/Devinterview-io/decision-tree-interview-questions
+
+80 Essential Deep Learning Interview Questions
+
+https://github.com/Devinterview-io/deep-learning-interview-questions
+
+50 Must-Know Dimensionality Reduction Interview Questions
+
+https://github.com/Devinterview-io/dimensionality-reduction-interview-questions
+
+Top 70 Ensemble Learning Interview Questions
+
+https://github.com/Devinterview-io/ensemble-learning-interview-questions
+
+35 Important Explainable AI Interview Questions
+
+https://github.com/Devinterview-io/explainable-ai-interview-questions
+
+Top 50 Feature Engineering Interview Questions
+
+https://github.com/Devinterview-io/feature-engineering-interview-questions
+
+50 Fundamental Gradient Descent Interview Questions
+
+https://github.com/Devinterview-io/gradient-descent-interview-questions
+
+45 Must-Know K-Nearest Neighbors Interview Questions
+
+https://github.com/Devinterview-io/k-nearest-neighbors-interview-questions
+
+70 Core Keras Interview Questions
+
+https://github.com/Devinterview-io/keras-interview-questions
+
+70 Must-Know Linear Regression Interview Questions
+
+https://github.com/Devinterview-io/linear-regression-interview-questions
+
+50 Important LLMOps Interview Questions
+
+https://github.com/Devinterview-io/llmops-interview-questions
+
+70 Important ML Design Patterns Interview Questions
+
+https://github.com/Devinterview-io/ml-design-patterns-interview-questions
+
+Top 50 MLOps Interview Questions
+
+https://github.com/Devinterview-io/mlops-interview-questions
+
+45 Fundamental Naive Bayes Interview Questions
+
+https://github.com/Devinterview-io/naive-bayes-interview-questions
+
+95 Common Neural Networks Interview Questions
+
+https://github.com/Devinterview-io/neural-networks-interview-questions
+
+50 Core NLP Interview Questions
+
+https://github.com/Devinterview-io/nlp-interview-questions
+
+45 Fundamental Pandas Interview Questions
+
+https://github.com/Devinterview-io/pandas-interview-questions
+
+48 Must-Know PCA Interview Questions
+
+https://github.com/Devinterview-io/pca-interview-questions
+
+45 Common Probability Interview Questions
+
+https://github.com/Devinterview-io/probability-interview-questions
+
+50 Must-Know PyTorch Interview Questions
+
+https://github.com/Devinterview-io/pytorch-interview-questions
+
+50 Must-Know Random Forest Interview Questions
+
+https://github.com/Devinterview-io/random-forest-interview-questions
+
+55 Fundamental SQL in Machine Learning Interview Questions
+
+https://github.com/Devinterview-io/sql-ml-interview-questions
+
+Top 75 Statistics Interview Questions
+
+https://github.com/Devinterview-io/statistics-interview-questions
+
+70 Fundamental Supervised Learning Interview Questions
+
+https://github.com/Devinterview-io/supervised-learning-interview-questions
+
+55 Fundamental Unsupervised Learning Interview Questions
+
+https://github.com/Devinterview-io/unsupervised-learning-interview-questions
+
+52 Must-Know GANs Interview Questions
+
+https://github.com/Devinterview-io/gans-interview-questions
+
+50 Common K-Means Clustering Interview Questions
+
+https://github.com/Devinterview-io/k-means-clustering-interview-questions
+
+50 Core Logistic Regression Interview Questions
+
+https://github.com/Devinterview-io/logistic-regression-interview-questions
+
+55 Core Model Evaluation Interview Questions
+
+https://github.com/Devinterview-io/model-evaluation-interview-questions
+
+50 Essential Optimization Interview Questions
+
+https://github.com/Devinterview-io/optimization-interview-questions
+
+Top 100 Python ML Interview Questions
+
+https://github.com/Devinterview-io/python-ml-interview-questions
+
+50 Fundamental Recommendation Systems Interview Questions
+
+https://github.com/Devinterview-io/recommendation-systems-interview-questions
+
+47 Fundamental RNN Interview Questions
+
+https://github.com/Devinterview-io/rnn-interview-questions
+
+70 Must-Know SVM Interview Questions
+
+https://github.com/Devinterview-io/svm-interview-questions
+
+Top 50 Time Series Interview Questions
+
+https://github.com/Devinterview-io/time-series-interview-questions
+
+36 Must-Know XGBoost Interview Questions
+
+https://github.com/Devinterview-io/xgboost-interview-questions
+
+100 Essential AWS Interview Questions
+
+https://github.com/Devinterview-io/aws-interview-questions
+
+100 Must-Know Data Scientist Interview Questions
+
+https://github.com/Devinterview-io/data-scientist-interview-questions
+
+63 Must-Know LLMs Interview Questions
+
+https://github.com/Devinterview-io/llms-interview-questions
+
+100 Essential AWS Interview Questions
+
+https://github.com/Devinterview-io/aws-interview-questions
+
+100 Must-Know Data Scientist Interview Questions
+
+https://github.com/Devinterview-io/data-scientist-interview-questions
 
