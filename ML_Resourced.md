@@ -100,24 +100,9 @@ https://github.com/Alireza-Akhavan/deeplearning-tensorflow2-notebooks/tree/maste
 
 https://github.com/Alireza-Akhavan/ML-notebooks
 
-### Compueter Vsion Sharif 
-
-https://github.com/Alireza-Akhavan/class.vision
-
-### object-detection-notebooks
-
-
-### Deep Learning Assignemnt Sharif 
-
-https://github.com/pourmand1376/DL-Homeworks/tree/master
-
 ### Natural-Language-Processing Sharif
 
 https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
-
-### Machine Learning Sharif
-
-https://github.com/fatemehnadir/Machine-Learning/tree/main
 
 ### Data Analytics
 
@@ -130,14 +115,6 @@ https://github.com/ZahraDehghani99/Natural-Language-Processing/tree/main
 ### Applied Machine Learning Homework 
 
 https://github.com/pooriaazizi-ce/AML-HomeWorks/tree/master?tab=readme-ov-file#applied-machine-learning-homework-commits
-
-### Machine learning Tehran University 
-
-https://github.com/fardinabbasi/Machine_Learning
-
-### Machine learning Tehran University 
-
-https://github.com/fardinabbasi/Machine_Learning
 
 ### Ml bookscamps code 
 
@@ -172,4 +149,48 @@ https://github.com/medAli-ai/Beijing-air-quality-prediction-internship/tree/main
 ### Interview preperation 
 
 https://github.com/shafaypro/CrackingMachineLearningInterview/tree/master?tab=readme-ov-file
+
+# 
+### Assignemets 
+
+####  Machine learning Tehran University 
+
+https://github.com/fardinabbasi/Machine_Learning
+
+
+#### Deep Learning Assignemnt Sharif 
+
+https://github.com/pourmand1376/DL-Homeworks/tree/master
+
+#### Machine learning Tehran University 
+
+https://github.com/fardinabbasi/Machine_Learning
+
+#### Machine Learning Sharif
+
+https://github.com/fatemehnadir/Machine-Learning/tree/main
+
+#### Compueter Vsion Sharif 
+
+https://github.com/Alireza-Akhavan/class.vision
+
+#### Deep Learning Sharif
+
+https://github.com/pourmand1376/DL-Homeworks/tree/master
+
+#### Machine Learning Sharif 
+
+https://github.com/pourmand1376/ML-projects/tree/main
+
+#### Sharif Ml Assignemnt 
+
+https://github.com/sharif-ml/sharif-ml.github.io/tree/main
+
+#### Statistical Learning 
+
+https://github.com/mobiiin/statistical-learning/tree/master
+
+#### Statistical Machine learning 
+
+https://github.com/pourmand1376/SML-projects/tree/main
 
