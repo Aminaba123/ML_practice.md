@@ -437,3 +437,18 @@ https://github.com/mobiiin/Computer-Vision/tree/master
 
 https://github.com/Mzunoven/ComputerVision/tree/master
 
+
+#
+##### University of montreal courses /Assignemnt
+
+https://github.com/akshayrana30/mila-courses/tree/master
+
+https://github.com/JetlagPoetry/Grad-Course
+
+##### Code and written solutions of the assignments of the Stanford CS224N: Natural Language Processing with Deep
+
+https://github.com/floriankark/cs224n-win2223/tree/main
+
+#### Natural-Language-Processing-Specialization
+
+https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization
