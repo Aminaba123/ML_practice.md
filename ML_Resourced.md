@@ -198,16 +198,6 @@ https://github.com/Alireza-Akhavan/ML-notebooks
 
 https://github.com/fatemehnadir/Natural-Language-Processing/tree/main
 
-#### Computer Vision sharif 
-
-https://github.com/sahelyiyi/ComputerVisionCourse/tree/master
-
-https://github.com/mobiiin/Computer-Vision/tree/master
-
-#### Comoiter vision CMU 
-
-https://github.com/Mzunoven/ComputerVision/tree/master
-
 #
 ### Interview questions
 
@@ -426,4 +416,24 @@ https://github.com/Devinterview-io/aws-interview-questions
 100 Must-Know Data Scientist Interview Questions
 
 https://github.com/Devinterview-io/data-scientist-interview-questions
+
+### Computer Vission resources 
+
+This repos has different algorithms with different level of diffivulties
+
+https://github.com/afondiel/computer-vision-challenge/tree/main
+
+This is a cool project for ariver awareness alerting systems
+
+https://github.com/calsickofthis/driver-awareness-interlock-project/tree/main
+
+#### Computer Vision sharif 
+
+https://github.com/sahelyiyi/ComputerVisionCourse/tree/master
+
+https://github.com/mobiiin/Computer-Vision/tree/master
+
+#### Comoiter vision CMU 
+
+https://github.com/Mzunoven/ComputerVision/tree/master
 
