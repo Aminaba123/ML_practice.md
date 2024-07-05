@@ -2,6 +2,10 @@
 
 https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
 
+### begining of the data science
+
+https://machinelearningmastery.com/beginning-data-science-7-day-mini-course/
+
 ### This repos has lots of topics wise projects in python and Machine Learning
 
 https://github.com/TheAlgorithms/Python/tree/master
