@@ -456,3 +456,9 @@ https://github.com/floriankark/cs224n-win2223/tree/main
 #### Natural-Language-Processing-Specialization
 
 https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization
+
+
+# 
+### kaggle 
+
+https://www.kaggle.com/code/suvroo/all-dl-optimizers-both-from-scratch-and-keras
