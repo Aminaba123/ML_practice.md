@@ -462,3 +462,9 @@ https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization
 ### kaggle 
 
 https://www.kaggle.com/code/suvroo/all-dl-optimizers-both-from-scratch-and-keras
+
+
+# 
+### kaggle Obeject detection 
+
+https://www.kaggle.com/code/vipingautam1906/objectdetection-tutorial
