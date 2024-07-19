@@ -8,3 +8,5 @@ https://www.kaggle.com/code/emre21/automated-eda-tools-notebook
 https://www.kaggle.com/code/kaanboke/the-most-used-methods-to-deal-with-missing-values
 
 https://www.kaggle.com/code/fahadrehman07/heart-disease-prediction-using-9-models
+
+https://www.kaggle.com/janiobachmann/code
