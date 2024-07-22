@@ -6,6 +6,8 @@
 
 `cd`  `cd .`  `cd ..`
 
+`cd ~` it goes to main home directory
+
 `mkdir`
 
 `top` it lists the top process running
@@ -21,6 +23,5 @@
 `uname -r` it shows the verson of distribution
 
 `man` command, for example `man ls` shows the manule description of linux in terminal  
-
 
 
