@@ -1,3 +1,12 @@
+##### How to create a virtual environment 
+
+`conda create -n action_chp_2 python=3.8`
+
+`conda info --envs` 
+
+`conda activate action_chp_2`
+
+
 `ls` 
 
 `ls -alh` 
