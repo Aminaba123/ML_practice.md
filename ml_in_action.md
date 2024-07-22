@@ -61,4 +61,45 @@ first_column = group_A[:, 0]
 `:` means `select all rows.`
 `0` means `select the first column.`
 
+plot the points 
+
+```py
+
+import numpy as np 
+import matplotlib.pyplot as plt
+
+def createDataSet():
+    group = np.array([[1.0, 1.1], [1.0, 1.0], [0, 0], [0, 0.1]])
+    labels = ['A', 'A', 'B', 'B']
+    return group, labels 
+
+group, labels = createDataSet()
+print(group, labels)
+
+# Separate the data points by labels
+
+print(np.array(labels))
+group_A = group[np.array(labels) == 'A']
+group_B = group[np.array(labels) == 'B']
+
+# Plot the data points
+
+plt.scatter(group_A[:, 0], group_A[:, 1], color='red', label='Class A')
+plt.scatter(group_B[:, 0], group_B[:, 1], color='blue', label='Class B')
+
+# Add labels and title
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
+plt.title('Data Points')
+plt.legend()
+
+# Show the plot
+plt.show()
+
+```
+
+#
+
+
+
 
