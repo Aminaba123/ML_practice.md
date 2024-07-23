@@ -29,3 +29,11 @@ https://github.com/Sinaptik-AI/pandas-ai
 chat 
 
 https://github.com/IssamLaradji/DialogLM/tree/main
+
+timey yolo, yolo from scarch
+
+https://github.com/BoXiao123/py-tiny-yolo-from-scratch
+
+nano gpt 
+
+https://github.com/karpathy/nanoGPT/tree/master
