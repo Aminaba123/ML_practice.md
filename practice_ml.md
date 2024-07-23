@@ -10,3 +10,19 @@ https://www.kaggle.com/code/kaanboke/the-most-used-methods-to-deal-with-missing-
 https://www.kaggle.com/code/fahadrehman07/heart-disease-prediction-using-9-models
 
 https://www.kaggle.com/janiobachmann/code
+
+
+### Cool projects
+
+demo_image_classification (simple)
+
+https://github.com/IssamLaradji/demo_image_classification
+
+chat_summarization_tutorial (simple)
+
+https://github.com/IssamLaradji/chat_summarization_tutorial
+
+pandas-ai (advanced)
+
+https://github.com/Sinaptik-AI/pandas-ai
+
