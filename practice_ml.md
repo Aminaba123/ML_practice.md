@@ -26,3 +26,6 @@ pandas-ai (advanced)
 
 https://github.com/Sinaptik-AI/pandas-ai
 
+chat 
+
+https://github.com/IssamLaradji/DialogLM/tree/main
