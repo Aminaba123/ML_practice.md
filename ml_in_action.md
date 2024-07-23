@@ -100,6 +100,108 @@ plt.show()
 
 #
 
+here we can see how to read ad parse the txt fil
+
+```py
+
+import os
+import numpy as np
+
+def file2matrix(filename):
+    """
+    Checks if the file exists, reads data from the file, and converts it into a NumPy matrix and label vector.
+
+    Parameters:
+    filename (str): The name of the file to process.
+
+    Returns:
+    tuple: A tuple containing:
+        - np.ndarray: Matrix containing the features.
+        - list: List containing the labels.
+    """
+    # Check if the file exists in the current directory
+    if filename in os.listdir():
+        print(f"File '{filename}' found in the current directory.")
+        
+        lines = []
+        try:
+            # Open and read the file
+            with open(filename, 'r') as txtfile:
+                for line in txtfile:
+                    line = line.strip()  # Strip leading and trailing whitespace
+                    listFromLine = line.split('\t')  # Split the line by tabs
+                    lines.append(listFromLine)  # Append the line to the list
+        
+        except FileNotFoundError:
+            print('There is no such file in this directory')
+            return None, None  # Return None if file not found
+
+        # Convert collected data to NumPy matrix and label vector
+        numberOfLines = len(lines)  # Get the number of lines
+        returnMat = np.zeros((numberOfLines, 3))  # Initialize a matrix to hold the data
+        classLabelVector = []  # Initialize a list to hold the labels
+
+        for index, line in enumerate(lines):
+            returnMat[index, :] = line[0:3]  # Assign the first three elements to the matrix
+            classLabelVector.append(int(line[-1]))  # Assign the last element as the label
+        
+        return returnMat, classLabelVector  # Return the matrix and label vector
+    
+    else:
+        print(f"File '{filename}' does not exist in the current directory.")
+        return None, None  # Return None if file does not exist
+
+# Example usage
+filename = 'datingTestSet2.txt'
+returnMat, classLabelVector = file2matrix(filename)
+
+if returnMat is not None and classLabelVector is not None:
+    print("Matrix:")
+    print(returnMat)
+    print("Labels:")
+    print(classLabelVector)
+else:
+    print("No data to process.")
+
+
+```
+
+#
+
+Some useful code for reading data 
 
 
 
+
+
+
+
+```py
+
+def csv_reader(fname):
+    with open(fname, 'r') as f:
+        out = list(csv.reader(f))
+    return out
+
+
+def get_files(folds_path: str, fold: int, split: str) -> list:
+    csv_dir = os.path.join(folds_path, 'fold_{}'.format(fold))
+    csv_file = os.path.join(csv_dir, '{}_f_{}.csv'.format(split, fold))
+    if os.path.exists(csv_file):
+        files = csv_reader(csv_file)
+    else:
+        raise FileExistsError('File {} not found.'.format(csv_file))
+    return files
+
+
+def decode_classes(files: list, classes: dict) -> list:
+    files_decoded_classes = []
+    for f in files:
+        class_name = f[0].split('/')[2]
+        files_decoded_classes.append((f[0], classes[class_name]))
+
+    return files_decoded_classes
+
+```
+
+#
