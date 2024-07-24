@@ -1,3 +1,19 @@
+
+#### (First) Machine Learning in Action 
+
+https://github.com/guipsamora/machinelearninginaction/tree/master
+
+https://github.com/justmarkham/scikit-learn-videos/tree/master
+
+##### (First) Deep learning from scrach 
+
+https://github.com/braindotai/Deep-Learning-Scratch-Arena/tree/master
+
+##### (First) Deep learning from scrach 
+
+https://kikaben.com/#category=&listing-listing-page=6
+
+
 ### Good reposittory for ml resources
 
 https://github.com/alirezadir/Machine-Learning-Interviews/tree/main
@@ -17,16 +33,6 @@ https://www.kaggle.com/code/serkanpeldek/object-oriented-titanics
 ##### This repository has al lot of python scripts and also ML
 
 https://github.com/TheAlgorithms/Python/tree/master/machine_learning
-
-#### (Firstt) Machine Learning in Action 
-
-https://github.com/guipsamora/machinelearninginaction/tree/master
-
-https://github.com/justmarkham/scikit-learn-videos/tree/master
-
-##### Deeap learning from scrach 
-
-https://github.com/braindotai/Deep-Learning-Scratch-Arena/tree/master
 
 ### Data Scince forom scratch 
 
