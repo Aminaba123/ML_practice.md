@@ -18,11 +18,15 @@ https://www.kaggle.com/code/serkanpeldek/object-oriented-titanics
 
 https://github.com/TheAlgorithms/Python/tree/master/machine_learning
 
-#### Machine Learning in Action 
+#### (Firstt) Machine Learning in Action 
 
 https://github.com/guipsamora/machinelearninginaction/tree/master
 
 https://github.com/justmarkham/scikit-learn-videos/tree/master
+
+##### Deeap learning from scrach 
+
+https://github.com/braindotai/Deep-Learning-Scratch-Arena/tree/master
 
 ### Data Scince forom scratch 
 
