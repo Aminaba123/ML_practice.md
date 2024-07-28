@@ -13,6 +13,14 @@ https://github.com/braindotai/Deep-Learning-Scratch-Arena/tree/master
 
 https://kikaben.com/#category=&listing-listing-page=6
 
+### prompt engineering
+
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+
+https://platform.openai.com/docs/guides/prompt-engineering
+
+
+
 
 ### Good reposittory for ml resources
 
