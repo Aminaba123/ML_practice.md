@@ -206,3 +206,19 @@ def decode_classes(files: list, classes: dict) -> list:
 ```
 
 #
+
+### Naive bayes 
+
+https://medium.com/analytics-vidhya/probability-vs-likelihood-873dcfe15df8
+
+probability vs likelihood 
+
+https://medium.com/analytics-vidhya/probability-vs-likelihood-873dcfe15df8
+
+
+
+
+
+
+
+
