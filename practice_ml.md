@@ -12,6 +12,7 @@ https://www.kaggle.com/code/fahadrehman07/heart-disease-prediction-using-9-model
 https://www.kaggle.com/janiobachmann/code
 
 
+
 ### Cool projects
 
 demo_image_classification (simple)
