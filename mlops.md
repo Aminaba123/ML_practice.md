@@ -1,4 +1,5 @@
 
+
 https://developers.google.com/machine-learning/guides/rules-of-ml
 
 https://docs.google.com/document/d/1C3dlLmFdYHJmACVkz99lSTUPF4XQbWb_Ah7mPE12Igo/edit#heading=h.a8w2b79yy875
@@ -12,5 +13,19 @@ https://docs.google.com/document/d/10K3pYTNvreVy5hl2EqWf_LX3mMW4CQw1TdMrHplMu00/
 https://github.com/GokuMohandas/mlops-course/tree/main
 
 https://github.com/DataTalksClub/mlops-zoomcamp/tree/main
+
+### Fast API
+
+https://github.com/amirbahador-hub/fastapi-tutorial/tree/main
+
+### Udacity MlOps
+
+https://github.com/mxagar/mlops_udacity
+
+https://github.com/mxagar/deploying-machine-learning-models/tree/master
+
+https://github.com/vothuckhanhhuyen/machine-learning-devops-engineer-nanodegree-udacity
+
+
 
 
