@@ -9,3 +9,5 @@ https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readin
 
 https://docs.google.com/document/d/10K3pYTNvreVy5hl2EqWf_LX3mMW4CQw1TdMrHplMu00/edit#heading=h.ygqitxw2cpfv
 
+https://github.com/GokuMohandas/mlops-course/tree/main
+
