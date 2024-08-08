@@ -11,3 +11,6 @@ https://docs.google.com/document/d/10K3pYTNvreVy5hl2EqWf_LX3mMW4CQw1TdMrHplMu00/
 
 https://github.com/GokuMohandas/mlops-course/tree/main
 
+https://github.com/DataTalksClub/mlops-zoomcamp/tree/main
+
+
