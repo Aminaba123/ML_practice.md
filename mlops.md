@@ -26,6 +26,10 @@ https://github.com/mxagar/deploying-machine-learning-models/tree/master
 
 https://github.com/vothuckhanhhuyen/machine-learning-devops-engineer-nanodegree-udacity
 
+https://github.com/mxagar/mlops_udacity
 
+https://github.com/mxagar/mlops_udacity/blob/main/03_Deployment/MLOpsND_Deployment.md
+
+https://github.com/mxagar/deploying-machine-learning-models/blob/master/ML_Deployment_Guide.md#4-packaging-the-model-for-production
 
 
