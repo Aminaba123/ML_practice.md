@@ -133,19 +133,153 @@ The below image aptly illustrates PCA's objective. The red dots represent data p
 `Creating Covariance Matrix and finding Eigenvalues and Eigen Vectors`
 
 An eigenvector (eigen is German for "typical"; we could translate eigenvector to "characteristic vector") is a special vector  
-v
-  such that when it is transformed by some matrix (let's say  
-A
- ), the product has the exact same direction as  
-v
- . An eigenvalue is a scalar (traditionally represented as  
-λ
- ) that simply scales the eigenvector  
-v
-  such that the following equation is satisfied:
+such that when it is transformed by some matrix (let's say  
+A), the product has the exact same direction as  v. An eigenvalue is a scalar (traditionally represented as  λ ) that simply scales the eigenvector v such that the following equation is satisfied:
+
+```txt
+A = square matrix (equal rows & columns)
+
+→
+v = non-zero vector
+
+λ = scalar value or eigenvalue
+
+```
+
+An eigenvector of a square matrix  A is a non-zero vector v that, when multiplied by the matrix  A , results in a scalar multiple of itself. Basically, Eigenvectors are vectors that, when transformed by the matrix  A , only change in magnitude, not in direction.
+
+
+For example : consider a 2D eigenvector [1, 1] and its corresponding matrix A. If A scales the vector by a factor of 2, the transformed vector will be [2, 2]. The vector has doubled in length, but its direction remains the same – it still points along a 45-degree angle from the  x-axis.
+
+`Calculation of Eigenvalues and Eigenvectors`
+
+Let's see how we calculate the eigenvalues and the eigenvectors. To find the eigenvectors of the matrix A , we first need to find the eigenvalues. The eigenvalues are the values  λ that satisfy the equation:
+
+- The principal components are derived from the eigenvectors of the covariance matrix of the original dataset.
+- Each eigenvector corresponds to a direction in the feature space, while the eigenvalue associated with each eigenvector indicates the amount of variance captured by that component. The larger the eigenvalue, the more variance is captured by the corresponding principal component.
+
+- Mathematically, if 𝜆1 is the largest eigenvalue, then PC1 corresponds to the eigenvector associated with 𝜆1. PC2 corresponds to the eigenvector associated with the second-largest eigenvalue 𝜆2 , and so forth.
+
+`Properties of Principal Components`
+
+`Orthogonality`: The principal components are orthogonal (perpendicular) to each other. This means they are uncorrelated and provide unique information about the data. Each component captures a different aspect of variance in the dataset.
+
+`Dimensionality Reduction`: By selecting only the first few principal components (those with the highest variance), we can effectively reduce the dimensionality of the dataset while retaining most of the original information.
+
+`Variance Explained`: The proportion of variance explained by each principal component can be calculated as
+
+This allows us to understand how many components are needed to capture a significant portion of the total variance.
+
+`Why do we calculate the covariance matrix`
+
+The covariance matrix is used to calculate eigenvectors and eigenvalues in principal component analysis (PCA) because it captures the variances and covariances between the features in a dataset. PCA aims to identify the principal components, which are the directions of maximum variance in the data. These directions correspond to the eigenvectors of the covariance matrix, and the corresponding eigenvalues represent the magnitudes of variance along those directions.
+
+The covariance matrix is a square matrix where each element represents the covariance between two features. The diagonal elements represent the variances of individual features, while the off-diagonal elements represent the covariances between different features.
+
+By calculating the eigenvectors and eigenvalues of the covariance matrix, PCA identifies the directions of maximum variance in the data. These directions are the principal components, and they represent the most significant patterns of variation in the dataset. Projecting the data onto these principal components reduces dimensionality while preserving as much of the original information as possible.
+
+`Displaying the Linear Transformations`
+
+Let's now transform our original data now that we have found out our principal components. The operation of transforming the original data using principal components is called principal component projection. It involves projecting the original data onto the principal components, which are the directions of maximum variance in the data. This projection effectively reduces the dimensionality of the data while preserving as much of the original information as possible.
+
+In this transformation, what we do is do a dot-product between the original data and the Principal components we just found out.
+
+The process involves multiplying the centered data matrix by the matrix of selected eigenvectors, resulting in a transformed data matrix with lower dimensionality. This transformed data captures the most significant variations in the original data while reducing the number of variables, making it easier to analyze and visualize.
+
+
+We have chosen 5 components since they explain the 90% of the explained variance in our data. The transpose is being done to enable the matrix multiplication. The shape of the dataframe and the Principal Components array is different and to be able to multiply the matrices, the length of the rows of one matrix should be equal to the length of the columns of another matrix
 
 
 
+```py
 
+import math
 
+# Function to calculate the mean of a list
+def mean(data):
+    return sum(data) / len(data)
+
+# Function to center the data
+def center_data(data):
+    means = [mean(col) for col in zip(*data)]
+    centered = [[data[i][j] - means[j] for j in range(len(data[0]))] for i in range(len(data))]
+    return centered
+
+# Function to calculate the covariance matrix
+def covariance_matrix(data):
+    n = len(data)
+    centered = center_data(data)
+    cov_matrix = [[0] * len(data[0]) for _ in range(len(data[0]))]
+    
+    for i in range(len(data[0])):
+        for j in range(len(data[0])):
+            cov_matrix[i][j] = sum(centered[k][i] * centered[k][j] for k in range(n)) / (n - 1)
+    
+    return cov_matrix
+
+# Function to calculate the eigenvalues and eigenvectors
+def eigen_decomposition(cov_matrix):
+    # Placeholder for eigenvalues and eigenvectors
+    eigenvalues = []
+    eigenvectors = []
+    
+    # For simplicity, we will use numpy for eigenvalue/eigenvector calculation
+    import numpy as np
+    
+    # Convert covariance matrix to numpy array for eigen decomposition
+    cov_matrix_np = np.array(cov_matrix)
+    vals, vecs = np.linalg.eig(cov_matrix_np)
+    
+    # Sort eigenvalues and corresponding eigenvectors
+    sorted_indices = np.argsort(vals)[::-1]  # Sort in descending order
+    for index in sorted_indices:
+        eigenvalues.append(vals[index])
+        eigenvectors.append(vecs[:, index].tolist())  # Convert to list for consistency
+
+    return eigenvalues, eigenvectors
+
+# Function to project the data onto the selected principal components
+def transform_data(data, eigenvectors, k):
+    return [[sum(data_point[j] * eigenvectors[j][i] for j in range(len(data_point))) for i in range(k)] for data_point in data]
+
+# Main PCA function
+def PCA(data, k):
+    # Step 1: Center the data
+    centered_data = center_data(data)
+
+    # Step 2: Calculate the covariance matrix
+    cov_matrix = covariance_matrix(centered_data)
+
+    # Step 3: Calculate eigenvalues and eigenvectors
+    eigenvalues, eigenvectors = eigen_decomposition(cov_matrix)
+
+    # Step 4: Project the data onto the top k eigenvectors
+    transformed_data = transform_data(centered_data, eigenvectors, k)
+
+    return transformed_data, eigenvalues, eigenvectors
+
+# Example usage with a 3x3 data matrix
+data = [
+    [2.5, 2.4, 3.1],
+    [0.5, 0.7, 0.9],
+    [2.2, 2.9, 3.3]
+]
+
+# Perform PCA to reduce to 2 dimensions
+k = 2
+transformed_data, eigenvalues, eigenvectors = PCA(data, k)
+
+# Output the results
+print("Transformed Data (PCA):")
+for row in transformed_data:
+    print(row)
+
+print("\nEigenvalues:")
+print(eigenvalues)
+
+print("\nEigenvectors:")
+for vec in eigenvectors:
+    print(vec)
+
+```
 
