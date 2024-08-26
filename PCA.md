@@ -109,4 +109,43 @@ I will apply PCA on all the available components and plot the cumulative varianc
 
 - We can drop these columns from our data and then we can use PCA to find which column explain the most variance in our data. By doing this, we will be helping the PCA algorithm computationally.
 
-- 
+#
+https://www.kaggle.com/code/bhatnagardaksh/pca-and-lda-implementation
+
+Principal components are linear combinations of the original variables in the dataset. They are new features that capture the most significant patterns in the data.
+
+PCA does two main thing :
+
+`Dimensionality Reduction`: PCA reduces the number of variables, simplifying data visualization and analysis. This makes it easier to identify patterns and relationships within the data.
+
+`Overfitting Prevention`: By eliminating highly correlated features, PCA reduces the risk of overfitting in machine learning models. Overfitting occurs when a model becomes too closely aligned with the training data, leading to poor performance on new data
+
+What are the priciple componets?
+
+Principal components are linear combinations of the original variables in the dataset. They are new features that capture the most significant patterns in the data.
+
+
+`PCA achieves these goals by **maximizing the variance** of the projected data on a given axis while **minimizing the reconstruction error** or residuals. It identifies principal components, directions that capture the most significant variations in the data.` Projecting data onto these principal components maximizes variance and minimizes reconstruction error, effectively reducing dimensionality without losing crucial information.
+
+The below image aptly illustrates PCA's objective. The red dots represent data points, and the arrows represent principal components. Longer arrows correspond to directions with higher variance, while shorter arrows correspond to directions with lower variance. PCA projects data onto these principal components, reducing dimensionality while preserving essential information.
+
+
+`Creating Covariance Matrix and finding Eigenvalues and Eigen Vectors`
+
+An eigenvector (eigen is German for "typical"; we could translate eigenvector to "characteristic vector") is a special vector  
+v
+  such that when it is transformed by some matrix (let's say  
+A
+ ), the product has the exact same direction as  
+v
+ . An eigenvalue is a scalar (traditionally represented as  
+λ
+ ) that simply scales the eigenvector  
+v
+  such that the following equation is satisfied:
+
+
+
+
+
+
