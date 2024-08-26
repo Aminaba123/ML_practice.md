@@ -5,6 +5,8 @@ https://github.com/guipsamora/machinelearninginaction/tree/master
 
 https://github.com/justmarkham/scikit-learn-videos/tree/master
 
+https://github.com/samira670?tab=repositories
+
 ##### (First) Deep learning from scrach 
 
 https://github.com/braindotai/Deep-Learning-Scratch-Arena/tree/master
