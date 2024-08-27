@@ -275,7 +275,16 @@ This document summarizes the differences between two commonly used methods for d
 ## Conclusion
 Both methods provide valuable insights for determining the optimal number of clusters and can be used together to ensure a comprehensive understanding of clustering performance.
 
+# 
 
+When you plot WCSS (or another measure of cluster compactness) against the number of clusters k, the resulting curve often resembles an arm with a bend (or "elbow").
+
+Initially, as you increase k, WCSS decreases sharply, indicating that adding more clusters leads to significant reductions in variance within clusters.
+Point of Diminishing Returns:
+
+After a certain point (the "elbow"), the decrease in WCSS becomes less pronounced. This suggests that adding more clusters does not provide substantial benefits in terms of reducing variance.
+
+The "elbow" represents a point where the model begins to exhibit diminishing returns, making it a natural stopping point for choosing the number of clusters.
 
 
 
