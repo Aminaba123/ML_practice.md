@@ -249,3 +249,34 @@ Clustering Quality Inference
 - Cluster Analysis and Profiling
 
 
+# Clustering Evaluation Methods
+
+This document summarizes the differences between two commonly used methods for determining the optimal number of clusters in clustering algorithms: the Elbow Method and the Silhouette Method.
+
+## Summary of Differences
+
+| Feature                  | Elbow Method                                 | Silhouette Method                             |
+|--------------------------|----------------------------------------------|----------------------------------------------|
+| **What It Measures**     | Within-Cluster Sum of Squares (WCSS)       | How well-separated the clusters are          |
+| **Interpretation**       | Look for the "elbow" point in the plot     | Aim for the highest average Silhouette Score |
+| **Visual Representation**| Plot of WCSS vs. \( k \)                    | Plot of average Silhouette Score vs. \( k \) |
+| **Indication of Quality**| Diminishing returns in variance reduction    | Clarity and separation of clusters           |
+
+## Description
+
+### Elbow Method
+- **Definition**: Identifies the optimal number of clusters by plotting WCSS against different values of \( k \).
+- **Usage**: The "elbow" point indicates a suitable number of clusters where adding more clusters results in minimal variance reduction.
+
+### Silhouette Method
+- **Definition**: Evaluates the quality of clusters by measuring how similar each data point is to its own cluster compared to other clusters.
+- **Usage**: The highest average Silhouette Score indicates the best-defined clusters, with scores ranging from -1 to +1.
+
+## Conclusion
+Both methods provide valuable insights for determining the optimal number of clusters and can be used together to ensure a comprehensive understanding of clustering performance.
+
+
+
+
+
+
