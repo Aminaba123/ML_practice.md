@@ -1,4 +1,8 @@
 
+#### Video course
+
+https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/
+
 #### (First) Machine Learning in Action 
 
 https://github.com/guipsamora/machinelearninginaction/tree/master
