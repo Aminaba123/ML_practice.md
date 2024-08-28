@@ -1,0 +1,1 @@
+In time series analysis, making a series stationary means transforming it in such a way that its statistical properties, such as mean, variance, and autocorrelation, do not change over time. A stationary time series is easier to model and analyze, particularly for methods like ARIMA (AutoRegressive Integrated Moving Average).
