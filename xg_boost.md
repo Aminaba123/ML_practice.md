@@ -1,6 +1,23 @@
 
 https://www.kaggle.com/code/rafiko1/enefit-xgboost-starter
 
+https://xgboost.readthedocs.io/en/stable/tutorials/custom_metric_obj.html
+
+https://github.com/dmlc/xgboost/blob/master/python-package/xgboost/sklearn.py
+
+https://stackoverflow.com/questions/56904840/xgboost-and-cross-validation-in-parallel
+
+https://stackoverflow.com/questions/57986259/multiclass-classification-with-xgboost-classifier
+
+https://stackoverflow.com/questions/67868420/xgboost-for-multiclassification-and-imbalanced-data?rq=3
+
+https://stackoverflow.com/questions/40968348/xgboost-dealing-with-imbalanced-classification-data?rq=3
+
+https://stackoverflow.com/questions/57986259/multiclass-classification-with-xgboost-classifier?rq=3
+
+https://stackoverflow.com/questions/61082381/xgboost-produce-prediction-result-and-probability?noredirect=1&lq=1
+
+
 ```py
 
 from xgboost import XGBRegressor
