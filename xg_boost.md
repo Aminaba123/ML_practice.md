@@ -17,6 +17,12 @@ https://stackoverflow.com/questions/57986259/multiclass-classification-with-xgbo
 
 https://stackoverflow.com/questions/61082381/xgboost-produce-prediction-result-and-probability?noredirect=1&lq=1
 
+#
+Tune Learning Rate for Gradient Boosting with XGBoost
+
+https://machinelearningmastery.com/tune-learning-rate-for-gradient-boosting-with-xgboost-in-python/
+
+
 
 ```py
 
