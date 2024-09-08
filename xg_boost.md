@@ -17,6 +17,10 @@ https://stackoverflow.com/questions/57986259/multiclass-classification-with-xgbo
 
 https://stackoverflow.com/questions/61082381/xgboost-produce-prediction-result-and-probability?noredirect=1&lq=1
 
+How to stack models ?
+
+https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/
+
 #
 Tune Learning Rate for Gradient Boosting with XGBoost
 
