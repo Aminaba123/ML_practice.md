@@ -1,4 +1,25 @@
 
+A Gentle Introduction to XGBoost Loss Functions
+
+https://machinelearningmastery.com/xgboost-loss-functions/
+
+Extreme Gradient Boosting (XGBoost) Ensemble in Python
+
+https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python/
+
+Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoost
+
+https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
+
+How to Use XGBoost for Time Series Forecasting
+
+https://machinelearningmastery.com/xgboost-for-time-series-forecasting/
+
+Bagging vs Boosting
+
+https://www.kaggle.com/code/prashant111/bagging-vs-boosting
+
+
 https://www.kaggle.com/code/rafiko1/enefit-xgboost-starter
 
 https://xgboost.readthedocs.io/en/stable/tutorials/custom_metric_obj.html
