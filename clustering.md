@@ -1,3 +1,8 @@
+Customer Segmentation & Recommendation System
+
+https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system#Step-3.7-%7C-Outlier-Treatment
+
+
 ### K-Means 
 
 Clustering is an unsupervised learning technique that involves grouping a set of objects (data points) into clusters based on similarity. The goal is to ensure that objects within the same cluster are more similar to each other than to those in other clusters.
