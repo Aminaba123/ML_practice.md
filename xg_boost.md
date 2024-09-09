@@ -19,6 +19,51 @@ Bagging vs Boosting
 
 https://www.kaggle.com/code/prashant111/bagging-vs-boosting
 
+Gradient Boosting and XGBoost
+
+https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5
+
+Home Credit Default Risk: XGBoost Model
+
+https://www.kaggle.com/code/mahmoud86/home-credit-default-risk-xgboost-model
+
+XGBoost + k-fold CV + Feature Importance
+
+https://www.kaggle.com/code/prashant111/xgboost-k-fold-cv-feature-importance
+
+A Guide on XGBoost hyperparameters tuning
+
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
+
+Calibrated Xgboost - powershap my feats
+
+https://www.kaggle.com/code/slythe/calibrated-xgboost-powershap-my-feats
+
+Using XGBoost to predict probability
+
+https://www.ikigailabs.io/multivariate-time-series-forecasting-in-python-settings/xgboost-predict-probability
+
+Hyperparameter tuning in XGBoost
+
+https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f
+
+Does XGBoost handle multicollinearity by itself?
+
+https://datascience.stackexchange.com/questions/12554/does-xgboost-handle-multicollinearity-by-itself
+
+Calibrated Xgboost w/ +2000 features (tsflex)
+
+https://www.kaggle.com/code/slythe/calibrated-xgboost-w-2000-features-tsflex
+
+Optimization of XGBoost
+
+https://www.kaggle.com/code/dstuerzer/optimization-of-xgboost
+
+xgb, catboost & Isotonic Regression
+
+https://www.kaggle.com/code/magnussesodia/ps-s3e10-xgb-catboost-isotonic-regression
+
+
 
 https://www.kaggle.com/code/rafiko1/enefit-xgboost-starter
 
