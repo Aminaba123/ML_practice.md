@@ -1,3 +1,54 @@
+XGBoost
+
+https://www.kaggle.com/code/dansbecker/xgboost
+
+XGBoost or Logistic Regression model for Diabetes Prediction
+
+https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5
+
+
+Tune Learning Rate for Gradient Boosting with XGBoost in Python
+
+https://machinelearningmastery.com/tune-learning-rate-for-gradient-boosting-with-xgboost-in-python/
+
+Probability Calibration
+
+https://www.kaggle.com/code/pulkit12dhingra/probability-calibration
+
+Complete Machine Learning Guide to Parameter Tuning in Gradient Boosting (GBM) in Python
+
+https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+
+ Probability calibration
+
+ https://www.kaggle.com/code/vbmokin/cfec-probability-calibration
+
+
+ 
+
+Adjusting predicted probabilities for sampling
+
+https://andrewpwheeler.com/2020/07/04/adjusting-predicted-probabilities-for-sampling/
+
+Model Calibration
+
+https://www.kaggle.com/code/naiborhujosua/model-calibration
+
+Notes on classification probability calibration
+
+https://www.kaggle.com/code/residentmario/notes-on-classification-probability-calibration
+
+Probability Calibration Tutorial
+
+https://www.kaggle.com/code/kelixirr/probability-calibration-tutorial
+
+Gradient Boosting and XGBoost
+
+https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5
+
+Tune Learning Rate for Gradient Boosting with XGBoost in Python
+
+https://machinelearningmastery.com/tune-learning-rate-for-gradient-boosting-with-xgboost-in-python/
 
 A Gentle Introduction to XGBoost Loss Functions
 
