@@ -2,6 +2,10 @@ Customer Segmentation & Recommendation System
 
 https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system#Step-3.7-%7C-Outlier-Treatment
 
+10 clustering algo in python 
+
+https://machinelearningmastery.com/clustering-algorithms-with-python/
+
 
 ### K-Means 
 
