@@ -7,6 +7,10 @@ https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-da
 
 https://github.com/guipsamora/machinelearninginaction/tree/master
 
+https://github.com/TheAlgorithms/Python/blob/master/machine_learning/dimensionality_reduction.py
+
+#
+
 https://github.com/justmarkham/scikit-learn-videos/tree/master
 
 https://github.com/samira670?tab=repositories
