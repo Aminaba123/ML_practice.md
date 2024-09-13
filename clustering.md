@@ -1,3 +1,8 @@
+Simlified Clustering with code and example
+
+https://www.kaggle.com/code/daniilkrasnoproshin/k-means-simplified-expedition-into-clustering
+
+
 Customer Segmentation & Recommendation System
 
 https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system#Step-3.7-%7C-Outlier-Treatment
